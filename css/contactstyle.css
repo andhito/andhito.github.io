@@ -1,0 +1,12 @@
+body{
+  background-color: #CECEF6;
+  background-image: url(https://static.pexels.com/photos/351511/pexels-photo-351511.jpeg);
+
+h3 {color: white;
+font-family: 'Georgia', serif;
+font.weight: bold;
+font-size: 40px;
+text-align: center;
+padding-top: 70px;
+padding-bottom: 30px;
+}
